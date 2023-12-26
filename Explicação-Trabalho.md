@@ -1,6 +1,6 @@
 # O projeto envolveu a extração extensiva de dados de um site, seguida pela criação de um banco de dados estruturado. Posteriormente, conduzi uma análise detalhada utilizando visualizações e estatísticas descritivas para identificar padrões e tendências. Além de que para finalizar teve a criação de um modelo de aprendizado de máquina para explorar previsões adicionais.
 
-# Peguei os dados de um Site esportivo onde mostrava os dados(Nome, Posição , Idade , Gols...) dos jogadores do Futebol Inglês.
+# Peguei os dados de um Site esportivo onde mostrava os dados(Nome, Posição , Idade , Gols...) dos jogadores do Futebol Europeu.
 
 # O trabalho foi dividido em partes para facilitar a compreensão: 
 # 1° Parte mostra a parte de coleta de dados do Site e da limpesa do banco de dados. 
