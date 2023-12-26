@@ -1,4 +1,4 @@
-# O projeto envolveu a extração extensiva de dados de um site, seguida pela criação de um banco de dados estruturado. Posteriormente, conduzi uma análise detalhada utilizando visualizações e estatísticas descritivas para identificar padrões e tendências.
+# O projeto envolveu a extração extensiva de dados de um site, seguida pela criação de um banco de dados estruturado. Posteriormente, conduzi uma análise detalhada utilizando visualizações e estatísticas descritivas para identificar padrões e tendências. Além de que para finalizar teve a criação de um modelo de aprendizado de máquina para explorar previsões adicionais.
 
 # O trabalho foi dividido em partes para facilitar a compreensão, destacando cada fase individualmente e também há o trabalho completo.
 
