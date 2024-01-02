@@ -9,4 +9,4 @@ O projeto envolveu a extração extensiva de dados de um [site esportivo](https:
 Além disso, há o trabalho completo.
 
 
-OBS: O arquivo com todo o trabalho completo só foi feito depois um tempo, porém durante esse tempo, ocorreram mudanças nos dados do site, o que causou problemas na coluna Idade ao realizar certas análises( teste de normalidade e Best Fit Distribution ), que não aconteciam antes( que pode ser visto no arquivo trabalho-parte2.
+OBS: O arquivo com todo o trabalho completo só foi feito depois um tempo, porém durante esse tempo, ocorreram mudanças nos dados do site, o que causou problemas na coluna Idade ao realizar certas análises( teste de normalidade e Best Fit Distribution ), que não aconteciam antes( que pode ser visto no arquivo trabalho-parte2).
