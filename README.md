@@ -5,8 +5,3 @@ O projeto envolveu a extração extensiva de dados de um [site esportivo](https:
 - 1° Parte mostra a coleta de dados do site e da limpeza do banco de dados. 
 - 2° Parte mostra a parte da análise 
 - 3° Parte mostra o uso do Marching Learning no banco de dados 
-
-Além disso, há o trabalho completo.
-
-
-OBS: O arquivo com todo o trabalho completo só foi feito depois um tempo, porém durante esse tempo, ocorreram mudanças nos dados do site, o que causou problemas na coluna Idade ao realizar certas análises( teste de normalidade e Best Fit Distribution ), que não aconteciam antes( que pode ser visto no arquivo trabalho-parte2).
